@@ -1,2 +1,2 @@
-# ideo-to-audio-convertor.
+# video-to-audio-convertor.
 Video to Audio convertor Using Python Script 
